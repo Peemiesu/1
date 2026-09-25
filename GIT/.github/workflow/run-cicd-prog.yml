@@ -17,4 +17,4 @@ jobs:
         python-version: "3.12"
 
     - name: Run program
-      run: python3 main.py
+      run: python3 69050656.py
